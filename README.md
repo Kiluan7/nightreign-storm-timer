@@ -30,3 +30,5 @@ A lightweight and fully customizable AutoHotkey overlay timer for tracking storm
 4. Timer will run automatically through phases
 5. Press `F1` again after the Night Boss is defeated
 
+## 🤝 Contact
+Discord: Kiluan
