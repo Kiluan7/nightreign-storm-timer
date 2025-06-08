@@ -9,8 +9,6 @@ A lightweight and fully customizable AutoHotkey overlay timer for tracking storm
 - Auto-progresses through all storm and shrink phases
 - Manual resume with `F1` after each Night boss
 - Click-through overlay toggle (`F5`)
-- Frameless, transparent mode for in-game use (soon)
-- Supports drag-to-move when click-through is off (testing)
 
 ## 🕹️ Controls
 
@@ -21,6 +19,9 @@ A lightweight and fully customizable AutoHotkey overlay timer for tracking storm
 | `F3`   | Pause/resume                    |
 | `F4`   | Exit script                     |
 | `F5`   | Toggle click-through / overlay  |
+| `F6`   | Toggle Window Size Mode         |
+| `F7`   | Skip to Next Phase              |
+| `F8`   | Go to Previous Phase            |
 
 ## 💡 Usage
 
